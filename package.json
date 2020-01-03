@@ -1,0 +1,27 @@
+{
+  "name": "@trusender/trusender-node",
+  "version": "1.0.0",
+  "description": "Node.js bindings for the TruSender API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "emailer"
+  ],
+  "author": "trusender",
+  "license": "ISC",
+  "dependencies": {
+    "npm": "^3.0.0",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bramu/trusender-node.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bramu/trusender-node/issues"
+  },
+  "homepage": "https://github.com/bramu/trusender-node#readme"
+}
